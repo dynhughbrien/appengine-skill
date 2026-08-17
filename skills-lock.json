@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "skills": {
+    "dt-alerting": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-alerting/SKILL.md",
+      "computedHash": "f165dbacb09a338c7f0ca6bee56216ca3c0bfee014e5a3240780164816f84886"
+    },
+    "dt-app-dashboards": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-app-dashboards/SKILL.md",
+      "computedHash": "9dab9eec3ba1e4b57bf3da140eadfd48476ea771f2f777cf81285e5d5b29e9ac"
+    },
+    "dt-app-notebooks": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-app-notebooks/SKILL.md",
+      "computedHash": "bb323100626ad32a9db6f28ff509c0b0bfd490abc620be44eba450245804ab89"
+    },
+    "dt-dql-essentials": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-dql-essentials/SKILL.md",
+      "computedHash": "3420aabcd530f7eeafde4480a1980dbb3b5cb18b2092b3b37e2a6edd730f3faf"
+    },
+    "dt-js-runtime": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-js-runtime/SKILL.md",
+      "computedHash": "b9c4b901bf92585026c1dbb027a04088e5947bf6a89cbc3bcfcd1630bc24cd64"
+    },
+    "dt-migration": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-migration/SKILL.md",
+      "computedHash": "ba1f32b8e15cd48bda8b4f542a1c67654350d45cc7b39b13dc53132070bf049c"
+    },
+    "dt-obs-analytics": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-analytics/SKILL.md",
+      "computedHash": "de9f7eac687d319c31c93e7d393dbfb6f75a2f6d2a023c2b0041455ef051fe00"
+    },
+    "dt-obs-aws": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-aws/SKILL.md",
+      "computedHash": "fe573314b33a01c5a61d3531309b3623831ebc0350445f3b700abc84917642e2"
+    },
+    "dt-obs-azure": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-azure/SKILL.md",
+      "computedHash": "133b426806b56264e913d96812fed0170663a620cab24aad7cbfb445fce7a2ed"
+    },
+    "dt-obs-compliance-assistant": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-compliance-assistant/SKILL.md",
+      "computedHash": "54af37d8c2ba2682efc348856463ead55c5fd4baf925998fa95cec6f88ca263e"
+    },
+    "dt-obs-ext-monitors": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-ext-monitors/SKILL.md",
+      "computedHash": "44a3f99aefd3b3786f3b5b3ad0172cc1636cd31c344f2697ba6c8913b0ded656"
+    },
+    "dt-obs-frontends": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-frontends/SKILL.md",
+      "computedHash": "2e44036ef9d6a688120c96604836e56b8e06a82e9fa8403fc51eb9df95de3993"
+    },
+    "dt-obs-gcp": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-gcp/SKILL.md",
+      "computedHash": "511481072fb8b50b69f59676ea622559608c271ec3640fdb0320f8d7e6fc2bd3"
+    },
+    "dt-obs-genai": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-genai/SKILL.md",
+      "computedHash": "ba185ae70d2ae4edc55b954e626e52230fdc94f1def65af4290f8ffba7b888a6"
+    },
+    "dt-obs-hosts": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-hosts/SKILL.md",
+      "computedHash": "163e9aae188ebdae392960c7c4f8cbafd7d5c5c3e2463eabd4bbd077ef02c22f"
+    },
+    "dt-obs-kubernetes": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-kubernetes/SKILL.md",
+      "computedHash": "287b89cecf32bd812936ff394dddaff8b67d5f92ca310884138f7c5f3894d0f8"
+    },
+    "dt-obs-log-semantic-mapping": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-log-semantic-mapping/SKILL.md",
+      "computedHash": "8d84e3592d55dc0a237324949cd2b04a8899d949aabfc87de424c1d9e9fd09ae"
+    },
+    "dt-obs-logs": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-logs/SKILL.md",
+      "computedHash": "27478eae7470e1175a4789411940b2e688c76cf192c48c1ea4597acb76da644d"
+    },
+    "dt-obs-network-devices": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-network-devices/SKILL.md",
+      "computedHash": "40d94fb04480c64ad87e3651f86c6c53db7762d2ce87ef32b19940e79cb4c9df"
+    },
+    "dt-obs-network-flows": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-network-flows/SKILL.md",
+      "computedHash": "da3a4076a0cdbd9d89a48f02b367092d58bf9fc7aa2919d8f06d1bc962fdc980"
+    },
+    "dt-obs-predictive-analytics": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-predictive-analytics/SKILL.md",
+      "computedHash": "6708c80c90a7d186a7825695f9f1e9a4207e071b9d41bafd8d141ff9e76a37e1"
+    },
+    "dt-obs-problems": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-problems/SKILL.md",
+      "computedHash": "b30d28464d5f47b0dd1e3077c437e51321c625ca27f0f9eb11b6a402354e816b"
+    },
+    "dt-obs-services": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-services/SKILL.md",
+      "computedHash": "1bb2fa033bce41115f085686a0f05543d85bd732a602ad9c16bfb603e2182694"
+    },
+    "dt-obs-tracing": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-obs-tracing/SKILL.md",
+      "computedHash": "84da8c2128b5a65204e041c753ab4b058e07d764be8c5038cbce0ab6d25da8b2"
+    },
+    "dt-platform-costs": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-platform-costs/SKILL.md",
+      "computedHash": "ab91f16604792570a6f0fec26d160e6d3abc4daba45d467d438ef3bbf8de0665"
+    },
+    "dt-sec-contextualization": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-sec-contextualization/SKILL.md",
+      "computedHash": "9e2b01e78d82c6bc3417af820abca13b435b5ae8a1724e50fbdb2c5099d8beed"
+    },
+    "dt-sec-insights": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-sec-insights/SKILL.md",
+      "computedHash": "4a4c60827925fd596d18806dba783f11eaa7f2b213466a150a686a38cc24b8b6"
+    },
+    "dt-sec-ioc-hunting": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-sec-ioc-hunting/SKILL.md",
+      "computedHash": "d83723b311a1fbdb64220ad2fabcf90b7a9b979c968fa74ebcd6210e694f30b2"
+    },
+    "dt-sec-semantic-mapping": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-sec-semantic-mapping/SKILL.md",
+      "computedHash": "e945967657ae1c916025ae1873b0e4fa0dec5a1a4c7ae0e406b3c6177bc49f2b"
+    },
+    "dt-setup-android": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-setup-android/SKILL.md",
+      "computedHash": "44957df59cff39c068a120f9ded2ef5f715bac0684d2383afb56fa7eafcf4f71"
+    },
+    "dt-setup-flutter": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-setup-flutter/SKILL.md",
+      "computedHash": "55403452e11f32e7a46e40e5b7adb1173bdbca8dc897b366812548b465d62855"
+    },
+    "dt-setup-ios": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-setup-ios/SKILL.md",
+      "computedHash": "7856ea00ad83c4bc78fed41d1b3e75dc1bcefdf3ea2253aa5409a973d75343c8"
+    },
+    "dt-setup-react-native": {
+      "source": "dynatrace/dynatrace-for-ai",
+      "sourceType": "github",
+      "skillPath": "skills/dt-setup-react-native/SKILL.md",
+      "computedHash": "f39a72c6341698f88ab78a13da40bfe1a02afc07c9b0797f37e60539fb883103"
+    }
+  }
+}

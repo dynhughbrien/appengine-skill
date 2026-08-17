@@ -1,0 +1,13 @@
+apiVersion: dtctl.io/v1
+kind: Config
+current-context: zjb
+contexts:
+    - name: zjb
+      context:
+        environment: https://zjb50753.apps.dynatrace.com/}
+        token-ref: zjb-token
+        safety-level: readwrite-all
+        description: Enterprise IT Project environment
+tokens: []
+preferences:
+    output: table
